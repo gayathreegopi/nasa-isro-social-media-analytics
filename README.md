@@ -47,15 +47,15 @@ This project analyzes public sentiment toward NASA and ISRO by examining unstruc
    ```bash
    git clone https://github.com/gayathreegopi/nasa-isro-social-analytics.git
     ```
-2. Install Dependencies: 
+2. **Install Dependencies**: 
   ```bash
   pip install -r requirements.txt
   ```
-4. Data Collection: 
+4. **Data Collection**: 
   Use the provided scripts to scrape and preprocess data from Reddit and Instagram.
-5. Analysis: 
+5. **Analysis**: 
   Run the Python scripts to perform topic modeling, sentiment analysis, and visualization.
-6. Results:
+6. **Results**:
   Check the generated reports and visualizations for insights on public sentiment and engagement patterns.
 
 ## Contact
