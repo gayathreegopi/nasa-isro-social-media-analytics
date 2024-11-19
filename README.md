@@ -60,7 +60,6 @@ This project analyzes public sentiment toward NASA and ISRO by examining unstruc
 
 ## Contact
 Feel free to reach out to me for questions, collaborations, or feedback:
-* Email: gayathreegopi@utexas.edu
 * LinkedIn: linkedin.com/in/gayathreegopi
 
 ## Acknowledgments
