@@ -46,7 +46,7 @@ This project analyzes public sentiment toward NASA and ISRO by examining unstruc
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/gayathreegopi/nasa-isro-social-analytics.git
-   ```
+    ```
 2. Install Dependencies: 
   ```bash
   pip install -r requirements.txt
